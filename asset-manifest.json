@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CeylonGuider/static/css/main.9a45725e.css",
-    "main.js": "/CeylonGuider/static/js/main.fa23efb7.js",
-    "static/js/787.f6b2eaaf.chunk.js": "/CeylonGuider/static/js/787.f6b2eaaf.chunk.js",
-    "static/media/polonnaru.jpg": "/CeylonGuider/static/media/polonnaru.de0549e16e254cfaed1f.jpg",
-    "static/media/ninearch2.jpg": "/CeylonGuider/static/media/ninearch2.e45d329260fc7cb5389e.jpg",
-    "static/media/sigiriya.jpg": "/CeylonGuider/static/media/sigiriya.02fcfe9ce6d5a6ac1345.jpg",
-    "static/media/girl2.jpg": "/CeylonGuider/static/media/girl2.6cacd525d4360fecafdb.jpg",
-    "static/media/traineecom.jpg": "/CeylonGuider/static/media/traineecom.0051cf6793b05cd33564.jpg",
-    "static/media/career-banner-bg.png": "/CeylonGuider/static/media/career-banner-bg.fb868a828da09e9749a7.png",
-    "static/media/temple.jpeg": "/CeylonGuider/static/media/temple.123266fd3d018125592f.jpeg",
-    "static/media/ayubowan.jpeg": "/CeylonGuider/static/media/ayubowan.4e3cecf5dad501925185.jpeg",
-    "index.html": "/CeylonGuider/index.html",
-    "main.9a45725e.css.map": "/CeylonGuider/static/css/main.9a45725e.css.map",
-    "main.fa23efb7.js.map": "/CeylonGuider/static/js/main.fa23efb7.js.map",
-    "787.f6b2eaaf.chunk.js.map": "/CeylonGuider/static/js/787.f6b2eaaf.chunk.js.map"
+    "main.css": "/CeylonGuiderReactJS/static/css/main.66acd561.css",
+    "main.js": "/CeylonGuiderReactJS/static/js/main.f10493d0.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/CeylonGuiderReactJS/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/polonnaru.jpg": "/CeylonGuiderReactJS/static/media/polonnaru.de0549e16e254cfaed1f.jpg",
+    "static/media/ninearch2.jpg": "/CeylonGuiderReactJS/static/media/ninearch2.e45d329260fc7cb5389e.jpg",
+    "static/media/sigiriya.jpg": "/CeylonGuiderReactJS/static/media/sigiriya.02fcfe9ce6d5a6ac1345.jpg",
+    "static/media/girl2.jpg": "/CeylonGuiderReactJS/static/media/girl2.6cacd525d4360fecafdb.jpg",
+    "static/media/traineecom.jpg": "/CeylonGuiderReactJS/static/media/traineecom.0051cf6793b05cd33564.jpg",
+    "static/media/career-banner-bg.png": "/CeylonGuiderReactJS/static/media/career-banner-bg.fb868a828da09e9749a7.png",
+    "static/media/temple.jpeg": "/CeylonGuiderReactJS/static/media/temple.123266fd3d018125592f.jpeg",
+    "static/media/ayubowan.jpeg": "/CeylonGuiderReactJS/static/media/ayubowan.4e3cecf5dad501925185.jpeg",
+    "index.html": "/CeylonGuiderReactJS/index.html",
+    "main.66acd561.css.map": "/CeylonGuiderReactJS/static/css/main.66acd561.css.map",
+    "main.f10493d0.js.map": "/CeylonGuiderReactJS/static/js/main.f10493d0.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/CeylonGuiderReactJS/static/js/787.f6b2eaaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a45725e.css",
-    "static/js/main.fa23efb7.js"
+    "static/css/main.66acd561.css",
+    "static/js/main.f10493d0.js"
   ]
 }
