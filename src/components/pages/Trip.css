@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none; 
+}
+
+.tripContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.first {
+    padding: 50px;
+    margin-left: 200px;
+}
+.second {
+    margin-top: 70px;
+    box-shadow: 0 3px 5px 0 rgba(10,5,74,.15);
+    width: 500px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f5f7;
+    justify-content: center;
+}
+table {
+    width: 400px;
+}
+table, th, td {
+    border: 0.5px solid rgb(2, 5, 5);
+    font-size: 20px;
+    text-align: center;
+
+}
+.table p {
+    font-size: 25px;
+    font-weight: bold;
+}
+.table tr:nth-child(even) {
+    background-color: #8a8585;
+}
+.table tr:hover {
+    background-color: #647a5e;
+    color: #fff;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 20px;
+}
+form div {
+    margin-top: 10px;
+    width: 400px;
+}
+form div input {
+    width: 100%;
+}
+form div select {
+    width: 100%;
+}
+form div button {
+    width: 100%;
+    background-color: rgb(138, 198, 144);
+    padding: 10px;
+    font-weight: bold;
+}
+.fieldMust {
+    color: rgb(198, 13, 13);
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

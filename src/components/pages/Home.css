@@ -1,0 +1,157 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+                    /* Images .............*/
+.images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #740e0e;
+    background-image: url(./images/girl2.jpg);
+    width: 100%;    
+    height: 700px;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+    /*............................... Others.............*/
+
+.other {
+    display: grid;
+    grid-template-columns: 350px 350px; /* =repeat(2, 1fr)  */
+    grid-template-rows: repeat(2, minmax());
+    justify-content: center;
+
+}
+.otherimg {
+    display: flex;
+    flex-direction: column;
+    height: 2000px;
+    justify-content: space-evenly;
+}  
+.otherimg .img1:hover {
+    transform: scale(1.3,1.3);
+    box-shadow:20px 10px 10px #060b18;
+}
+.otherimg .img2:hover {
+    transform: scale(1.3,1.3);
+    box-shadow:20px 10px 10px #060b18;
+}
+.otherimg .img4:hover {
+    transform: scale(1.3,1.3);
+    box-shadow:20px 10px 10px #060b18;
+}
+.otherimg .img5:hover {
+    transform: scale(1.3,1.3);
+    box-shadow:20px 10px 10px #060b18;
+}
+.img1 {
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    border: 10px solid #947f05;
+    rotate: 10deg;
+    border-radius: 30% 0;
+    background-image: url('images/sigiriya.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -70px;
+    z-index: 5;
+}
+
+.img2 {
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    border: 10px solid #947f05;
+    rotate: 10deg;
+    border-radius: 30% 0;
+    background-image: url('images/ninearch2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
+}
+
+.img3 {
+    margin-right: 300px;
+    width: 250px;
+    height: 350px; 
+    overflow: hidden;
+    border: 10px solid #947f05;
+    border-radius: 80px;
+    background-image: url('images/ayubowan.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
+}
+#tripBtn {
+    position: absolute;
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #766508, #a3a48d);
+    border: 2px solid rgb(120, 15, 15);
+    font-weight: 900;
+    animation: tBtn 1s infinite;
+    position: fixed;
+}
+@keyframes tBtn {
+    from {scale: 100%;}
+    to {scale: 120%;
+        box-shadow: 5px 5px 10px #131b30;}
+}
+
+.img4 {
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    border: 10px solid #947f05;
+    rotate: 10deg;
+    border-radius: 30% 0;
+    background-image: url('images/temple.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
+}
+
+.img5 {
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    border: 10px solid #947f05;
+    rotate: 10deg;
+    border-radius: 30% 0;
+    background-image: url('images/polonnaru.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
+}
+
+.paragraph {
+    display: flex;
+    flex-direction: column;
+    height: 1800px;
+    justify-content: space-evenly;
+}
+.para p {
+    margin-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.list ul li {
+    list-style: disc;
+    font-size: 20px;
+}
+.list p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
