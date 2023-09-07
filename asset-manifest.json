@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CeylonGuiderReactJS/static/css/main.66acd561.css",
-    "main.js": "/CeylonGuiderReactJS/static/js/main.f10493d0.js",
+    "main.css": "/CeylonGuiderReactJS/static/css/main.305dc6c8.css",
+    "main.js": "/CeylonGuiderReactJS/static/js/main.eeb48a05.js",
     "static/js/787.f6b2eaaf.chunk.js": "/CeylonGuiderReactJS/static/js/787.f6b2eaaf.chunk.js",
     "static/media/polonnaru.jpg": "/CeylonGuiderReactJS/static/media/polonnaru.de0549e16e254cfaed1f.jpg",
     "static/media/ninearch2.jpg": "/CeylonGuiderReactJS/static/media/ninearch2.e45d329260fc7cb5389e.jpg",
@@ -12,12 +12,12 @@
     "static/media/temple.jpeg": "/CeylonGuiderReactJS/static/media/temple.123266fd3d018125592f.jpeg",
     "static/media/ayubowan.jpeg": "/CeylonGuiderReactJS/static/media/ayubowan.4e3cecf5dad501925185.jpeg",
     "index.html": "/CeylonGuiderReactJS/index.html",
-    "main.66acd561.css.map": "/CeylonGuiderReactJS/static/css/main.66acd561.css.map",
-    "main.f10493d0.js.map": "/CeylonGuiderReactJS/static/js/main.f10493d0.js.map",
+    "main.305dc6c8.css.map": "/CeylonGuiderReactJS/static/css/main.305dc6c8.css.map",
+    "main.eeb48a05.js.map": "/CeylonGuiderReactJS/static/js/main.eeb48a05.js.map",
     "787.f6b2eaaf.chunk.js.map": "/CeylonGuiderReactJS/static/js/787.f6b2eaaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66acd561.css",
-    "static/js/main.f10493d0.js"
+    "static/css/main.305dc6c8.css",
+    "static/js/main.eeb48a05.js"
   ]
 }
